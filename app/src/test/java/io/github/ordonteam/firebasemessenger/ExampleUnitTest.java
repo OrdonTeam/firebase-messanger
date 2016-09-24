@@ -1,4 +1,4 @@
-package io.github.ordonteam.firebasemessanger;
+package io.github.ordonteam.firebasemessenger;
 
 import org.junit.Test;
 

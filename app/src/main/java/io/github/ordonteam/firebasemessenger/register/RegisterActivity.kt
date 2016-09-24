@@ -1,8 +1,8 @@
-package io.github.ordonteam.firebasemessanger.register
+package io.github.ordonteam.firebasemessenger.register
 
 import android.os.Bundle
 import android.support.v7.app.AppCompatActivity
-import io.github.ordonteam.firebasemessanger.R
+import io.github.ordonteam.firebasemessenger.R
 
 class RegisterActivity : AppCompatActivity() {
 

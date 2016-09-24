@@ -1,4 +1,4 @@
-package io.github.ordonteam.firebasemessanger;
+package io.github.ordonteam.firebasemessenger;
 
 import android.content.Context;
 import android.support.test.InstrumentationRegistry;
